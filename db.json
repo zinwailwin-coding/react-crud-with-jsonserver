@@ -1,0 +1,25 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "zin",
+      "email": "zin@gmail.com",
+      "phone": "+959 977293503",
+      "active": false
+    },
+    {
+      "id": "2",
+      "name": "Aung Aung",
+      "email": "aung@gmail.com",
+      "phone": "09799778997",
+      "active": true
+    },
+    {
+      "id": "3",
+      "name": "Mg Mg",
+      "email": "mg@gmail.com",
+      "phone": "98392839283",
+      "active": true
+    }
+  ]
+}

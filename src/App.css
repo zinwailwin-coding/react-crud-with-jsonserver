@@ -2,11 +2,33 @@
   text-align: center;
 }
 
-.divbtn{
+/* .divbtn{
   float: left;
-}
+} */
 .btn{
   margin: 5px;
+}
+.col-md-12 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.divbtn {
+  display: flex;
+  justify-content: flex-start;
+}
+.active-button{
+  background-color: lightgreen;
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
+}
+.inactive-button{
+  background-color: lightgray;
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
 }
 .App-logo {
   height: 40vmin;
